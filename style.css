@@ -1,10 +1,10 @@
-/*
+
 * {
     margin: 0;
     padding: 0;
     font-size: 20px;
-    font-family:cursive;
-}*/
+    font-family: "Open Sans";
+}
 
 body {
 
@@ -16,13 +16,15 @@ h1 {
 }
 
 .gol {
-    width: 300px;
+    width: 550px;
+    margin: 150px;
 }
 
 .topico {
     display: flex;
-    justify-content: space-around;
-    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
 }
 
 .a {
@@ -38,6 +40,7 @@ h1 {
 
 .c {
     width: 700px;
+    text-align: center;
 }
 
 h2 {
